@@ -1,18 +1,12 @@
 import React from 'react'
 
-function products() {
-  return (
-    <div>
-      [{
-       id = 0,
-       nameOfPic = Relaxer,
-       pic = link,
-      }
-      {
+products = [
+ {name: "Zee",
+  age: 28,
+  car: "tazz", 
+  pic : link
+ },
+ {}
+]
 
-      }];
-    </div>
-  )
-}
-
-export default products
+export default products;
